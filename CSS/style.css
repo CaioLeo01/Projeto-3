@@ -213,15 +213,14 @@
   .main5{
     background: url(../img/img02.png) no-repeat center center;
     background-size: cover;
-    height: 700px;
+    height: 800px;
     
     /* width: 80%; */
 
   }
   .main5 ::before{
     content: '';
-   
-   opacity: 0.35;
+    opacity: 0.35;
 
   }
   .main6{
